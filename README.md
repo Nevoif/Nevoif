@@ -3,7 +3,7 @@
   ### technical stack
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,lua,neovim,arch,docker,git,md&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,lua,neovim,arch,docker,git&theme=dark" />
   </a>
 
   <br />
