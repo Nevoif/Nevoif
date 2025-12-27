@@ -22,7 +22,7 @@
 
   
 
-  ### connect
+  ### connect me via these
 
   <a href="mailto:nevoif@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="30" />
