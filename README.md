@@ -13,10 +13,6 @@
 
 <div align="center">
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nevoif&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="activity graph" />
-
-<br/>
 <br/>
 </div>
 
